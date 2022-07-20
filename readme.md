@@ -1,0 +1,1 @@
+<p>Random Number Generator JavaScript</p>
