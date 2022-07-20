@@ -4,7 +4,7 @@
   --white: #fff;
   --black: #1c2b2d;
   --blue: #31326f;
-  --light-blue: #005490;
+  --custom: #dede84;
   --color-primary: #9d0191;
   --color-sec: #db6400;
   --grey: #eee;
@@ -48,7 +48,7 @@ img {
   width: 40rem;
   border: 1px solid var(--grey);
   padding: 1rem;
-  background-color: var(--light-blue);
+  background-color: var(--custom);
   color: var(--white);
   text-align: center;
   border-radius: 5px;
